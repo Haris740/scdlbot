@@ -49,7 +49,7 @@ class ScdlBot:
         }
         self.APP_URL = app_url
         self.DL_TIMEOUT = dl_timeout
-        self.TG_BOT_API = tg_bot_api
+        self.TG_BOT_API = 1425412568:AAGs6R4wfShzW-6S_p1NpF61bkkQ-ZF7-wU
         self.MAX_TG_FILE_SIZE = max_tg_file_size
         self.MAX_CONVERT_FILE_SIZE = max_convert_file_size
         self.SERVE_AUDIO = serve_audio
